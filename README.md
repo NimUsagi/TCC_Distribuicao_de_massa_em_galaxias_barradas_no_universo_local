@@ -11,7 +11,7 @@ distância catalogado e sem componete "disco+disco" em seu modelo de decomposiç
 Bouquin18(1931)+Buta15.csv", passos ilustrados em "Selecao_amostra_ideal.ipynb".
 
 Selecao_amostra_ideal.ipynb -- Mostra os passos da seleção da amostra ideal que visa estudar a distribuição de massa em galáxias no universo local.
-gera a tabela "amostra_370.csv".
+gera a tabela "amostra_430.csv".
 
 Numero_galaxias_diferentes_cortes_de_massa.ipynb -- Ilustra como os critérios de cortes de massa influenciaram os tamanhos das amostras e chegaram ao 
 valor que temos em nossas subamostras.
